@@ -17,11 +17,11 @@
 
 * ### Eclipse
 
-    * https://www.eclipse.org/downloads/
+  * https://www.eclipse.org/downloads/
 
 * ### NetBeams
 
-    * https://netbeans.apache.org/
+  * https://netbeans.apache.org/
 
 &nbsp;
 
@@ -43,13 +43,13 @@ No ambiente Windows, diferentes versões do JDK (Java Development Kit) pordem se
 
 * Download do OpenJDK (Obs.: Fazer o download da versão zip.)
 
-    * https://adoptium.net/temurin/releases/
+  * https://adoptium.net/temurin/releases/
 
 * Instalação do OpenJDK
 
-    * Descompactar o OpenJDK no diretório `jvms\store\`.
-    * Renomear o diretório criado `jdk-xx.x.x` para `xx.x.x`.
-    * Executar o comando `jvms ls` e verificar se a versão instalada é exibida na lista de versões disponíveis.
+  * Descompactar o OpenJDK no diretório `jvms\store\`.
+  * Renomear o diretório criado `jdk-xx.x.x` para `xx.x.x`.
+  * Executar o comando `jvms ls` e verificar se a versão instalada é exibida na lista de versões disponíveis.
 
 ### Gerenciamento do JDK através do JVMS
 

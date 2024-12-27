@@ -1,8 +1,8 @@
+&nbsp;
+
 <h1 align="center">Ambientes de Desenvolvimento</h1>
-
 <h3 align="center">Prof. Eduardo Ono</h3>
-
-<h5 align="center">Atualizado em: 28/04/2024</h5>
+<h6 align="center"><img src="https://img.shields.io/github/last-commit/eduardo-ono/Ambientes-de-Desenvolvimento" alt="" height="100%"></h6>
 
 &nbsp;
 
